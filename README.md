@@ -31,7 +31,7 @@ Make sure you have all the required libraries installed. Run the following comma
 ```
 pip install selenium webdriver_manager pandas
 ```
-4. Run the Script
+### 4. Run the Script
 Now, you can run the scraper script but before that modify it accordingly. This will open the Power BI report in the Edge browser, navigate through the report, and scrape the relevant data:
 ```
 python powerbi_scraper.py
